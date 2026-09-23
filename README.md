@@ -250,7 +250,7 @@ That makes the repository useful as both a **technical portfolio project** and a
 
 Computer Science Engineering · AI / Machine Learning · Data Analytics
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shivamxxpathak-181717?style=flat-square&logo=github)](https://github.com/Shivamxxpathak)
+[![GitHub](https://github.com/Aman-tech730)
 
 ---
 
