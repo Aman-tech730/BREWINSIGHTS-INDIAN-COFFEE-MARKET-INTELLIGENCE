@@ -151,23 +151,23 @@ Consumer profiles, city opportunity, market-entry ranking, sensitivity analysis 
 
 ## 📈 Key Visuals
 
-![Consumer Segments](assets/figures/consumer_segments.png)
+![Consumer Segments](Outputs/Diagrams/consumer_segments.png)
 
 ### Customer Clustering — 3D View
 
-![Customer Clusters 3D](assets/figures/customer_clusters_3d.svg)
+![Customer Clusters 3D](Outputs/Diagrams/customer_clusters_3d.svg)
 
 ### City Market Entry Score
 
-![City Market Entry Score](assets/figures/city_market_entry_score.png)
+![City Market Entry Score](Outputs/Diagrams/city_market_entry_score.png)
 
 Additional analytical figures:
 
-- [Adoption model comparison](assets/figures/adoption_model_comparison.svg)
-- [Customer clusters — 3D](assets/figures/customer_clusters_3d.svg)
-- [Demand forecast](assets/figures/demand_forecast.svg)
-- [City opportunity](assets/figures/city_market_opportunity.svg)
-- [Model evaluation summary](assets/figures/model_evaluation_summary.svg)
+- [Adoption model comparison](Outputs/Diagrams/adoption_model_comparison.svg)
+- [Customer clusters — 3D](Outputs/Diagrams/customer_clusters_3d.svg)
+- [Demand forecast](Outputs/Diagrams/demand_forecast.svg)
+- [City opportunity](Outputs/Diagrams/city_market_opportunity.svg)
+- [Model evaluation summary](Outputs/Diagrams/model_evaluation_summary.svg)
 
 ---
 
