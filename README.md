@@ -11,8 +11,7 @@
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![Dashboard](https://img.shields.io/badge/🚀%20Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]
-[![Open Dashboard](https://img.shields.io/badge/🚀%20Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](http://localhost:8501/)
+[![Dashboard](https://img.shields.io/badge/🚀%20Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](http://localhost:8501/)
 </div>
 
 ---
