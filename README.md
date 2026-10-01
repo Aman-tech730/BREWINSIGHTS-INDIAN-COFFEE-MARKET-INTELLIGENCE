@@ -12,6 +12,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dasboard]]([http://localhost:8501///img.shields.io/badge/Dashboard-FF4B4B)(http://localhost:8501/)
+[![Open Dashboard](https://img.shields.io/badge/🚀%20Open%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR-STREAMLIT-DASHBOARD-URL)
 </div>
 
 ---
